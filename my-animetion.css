@@ -6,7 +6,16 @@
     background: red;
 }
 /* ese 2 */
+.ex-2-square {
+    transition: 2s;
+}
+.ex-2-square:active {
+    width: 100%;
+}
 /* ese 3 */
+.ex-3-square {
+    
+}
 /* ese 4 */
 /* ese 5 */
 /* ese 6 */
