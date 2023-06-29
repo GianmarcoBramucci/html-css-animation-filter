@@ -14,7 +14,10 @@
 }
 /* ese 3 */
 .ex-3-square {
-    
+    transition: 1s;
+}
+.ex-3-square:hover {
+    border-radius: 100%;
 }
 /* ese 4 */
 /* ese 5 */
