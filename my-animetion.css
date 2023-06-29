@@ -1,4 +1,10 @@
 /* ese 1 */
+.ex-1-square {
+    transition: 2s;
+}
+.ex-1-square:hover {
+    background: red;
+}
 /* ese 2 */
 /* ese 3 */
 /* ese 4 */
