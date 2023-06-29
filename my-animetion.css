@@ -20,7 +20,16 @@
     border-radius: 100%;
 }
 /* ese 4 */
+.ex-4-square {
+    transition: 1s;
+}
+.ex-4-square:hover {
+    opacity: 0;
+}
 /* ese 5 */
+.ex-5-square {
+    transition: 1s;
+}
 /* ese 6 */
 /* ese 7 */
 /* ese 8 */
